@@ -5,7 +5,7 @@
 We are trying to build the best gaming community out there.
 
 * [Explore featured projects](https://oss.games.directory/projects/)
-* [Explore open source jobs at games.directory](https://careers.games.directory/uk/en/jobs)
+* [Explore jobs at games.directory](https://careers.games.directory/uk/en/jobs)
 
 Visit [oss.games.directory](https://oss.games.directory) to learn more!
 
